@@ -1,0 +1,15 @@
+# Used by dotenv library to load environment variables.
+.env
+
+# Ignore Byebug command history file.
+.byebug_history
+
+# Ignore bundler config.
+/.bundle
+
+# IDE files
+.vscode/
+
+# OS generated files
+.DS_Store
+.DS_Store?
